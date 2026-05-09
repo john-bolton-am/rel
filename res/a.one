@@ -1,1 +1,1 @@
-{"20260508": {"event_categories": [], "events": [], "event_channels": []}}
+{"20260509": {"event_categories": [{"IId": 1, "provider_id": "3", "title": "19:30  Manchester City vs Brentford\t", "descr": ""}], "events": [{"IId": 1, "provider_id": "3", "category_id": 1, "time": "13:30", "title": "Middlesbrough - Southampton", "te": "13:30"}], "event_channels": [{"provider_id": "3", "event_id": 1, "channel_id": "skymain", "channel_name": "Sky Sports Main Event"}]}}
